@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hey! I’m Sushant.
 
-<!--
-**Benzoic02/Benzoic02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build developer tools and write about how software works.
 
-Here are some ideas to get you started:
+Currently working on **AI**, **developer tooling**, **TypeScript**, **Next.js**, **PostgreSQL**, and **Supabase**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+- 🛠️ **Build** — full-stack apps and developer tools  
+- ✍️ **Write** — technical tutorials, docs, guides, and product education  
+- 🎥 **Create** — demos and short-form technical content  
+- 🌐 **Engage** — developer communities and product feedback  
+
+### Projects
+
+#### Surface  
+**Attention Intelligence Platform for Engineering**  
+Next.js · TypeScript · Supabase · PostgreSQL · GitHub  
+
+#### Friday Code  
+**AI-powered development platform**  
+AI · Developer Tools · GitHub · Vercel  
+
+### Stack
+
+TypeScript · JavaScript · React · Next.js · PostgreSQL · Supabase · SQL · GitHub · Vercel  
+
+### Writing & DevRel
+
+Technical documentation · Developer education · Tutorials · API docs · Product demos · Video · Community  
+
+### About
+
+I like building things that optimize workflows and solve problems. 
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/sushant-babbar/)
