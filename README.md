@@ -11,7 +11,7 @@ Currently working on **AI**, **developer tooling**, **TypeScript**, **Next.js**,
 - 🎥 **Create** — demos and short-form technical content  
 - 🌐 **Engage** — developer communities and product feedback  
 
-### Projects
+### Featured Projects
 
 #### Surface  
 **Attention Intelligence Platform for Engineering**  
